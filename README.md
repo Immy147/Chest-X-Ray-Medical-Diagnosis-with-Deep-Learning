@@ -20,3 +20,7 @@ There will be 109 photos used for checking.
 420 test photos are available.
 A CSV file with the actual labels for each X-ray is included with the dataset.
 
+
+
+## Model Evaluation
+This model evaluation file consist of code for determining how good our model is. for the model evaluation we use severals measures, like here we use accuracy, precission, recall and the ROC curve. these measures are used to evaluate the model and his performance.
